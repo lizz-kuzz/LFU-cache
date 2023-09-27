@@ -1,4 +1,4 @@
-# Install script for directory: /home/lizzkuzz/Desktop/programs/2_course/cpp/cache
+# Install script for directory: /home/lizzkuzz/Desktop/programs/2_course/cpp/cache/LFU-cache
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/lizzkuzz/Desktop/programs/2_course/cpp/cache/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/lizzkuzz/Desktop/programs/2_course/cpp/cache/LFU-cache/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
